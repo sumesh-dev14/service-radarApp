@@ -1,0 +1,17 @@
+.DS_Store
+.CFUserTextEncoding
+.config/
+.gitconfig
+.local/
+.mysql_history
+.thumbnails/
+.viminfo
+.zprofile
+.zsh_history
+.zsh_sessions/
+.zshrc
+Library/
+Movies/
+Music/
+Pictures/
+Public/
