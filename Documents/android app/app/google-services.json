@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823692447368",
+    "project_id": "serviceradar-d7ba4",
+    "storage_bucket": "serviceradar-d7ba4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823692447368:android:18038fd2f8bb3f546d593d",
+        "android_client_info": {
+          "package_name": "com.example.serviceradar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH-OKFbhatYwAd_Dl7MOYHXwriY-11Lyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
